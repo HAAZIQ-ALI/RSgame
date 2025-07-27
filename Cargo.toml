@@ -1,0 +1,8 @@
+[package]
+name = "numberGame"
+version = "0.1.0"
+edition = "2024"
+author = ["hazzy the pro-gamer"]
+[dependencies]
+
+rand = "0.3.14"
